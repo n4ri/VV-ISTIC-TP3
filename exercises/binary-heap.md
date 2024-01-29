@@ -39,7 +39,7 @@ Use the following steps to design the test suite:
 
 Use the project in [tp3-heap](../code/tp3-heap) to complete this exercise.
 
-## Answer - ILAN - AIMAN
+## Answer - ILAN HUCHE - AOUAD AIMAN
 
 Implemented Date class can be found in the [main folder from tp3-heap](../code/tp3-heap/src/)
 
